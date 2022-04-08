@@ -1,6 +1,4 @@
-# Google Data Analytics Professional Capstone Project 
-
-## Analysing Smart Device Usage Data in R!
+# Google Data Analytics Professional Capstone Project: Analysing Smart Device Usage Data in R
 
 ## Overview
 
